@@ -1,0 +1,31 @@
+body {
+    background-color: hotpink;
+}
+
+h1 {
+    color: purple;
+}
+
+h2{
+    color: darkviolet;
+}
+
+h3{
+    color: blue;
+}
+
+h4{
+    color: orange;
+}
+
+h5{
+    color: deeppink;
+}
+
+h6{
+    color: red;
+}
+
+hr{
+    color: goldenrod;
+}
